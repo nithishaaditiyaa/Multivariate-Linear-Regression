@@ -1,3 +1,6 @@
+Developed By : R . Nithish Aaditiyaa
+Register Number : 212225040287
+
 # Implementation of Multivariate Linear Regression
 ## Aim
 To write a python program to implement multivariate linear regression and predict the output.
@@ -6,15 +9,11 @@ To write a python program to implement multivariate linear regression and predic
 2.	Anaconda – Python 3.7 Installation / Moodle-Code Runner
 ## Algorithm:
 ### Step1
-<br>
 ### Step2
-<br>
 ### Step3
-<br>
 ### Step4
-<br>
 ### Step5
-<br>
+
 ## Program:
 ```
 
@@ -32,15 +31,11 @@ predictedCO2 = regr.predict(input_data)
 print('Predicted CO2 for the corresponding weight and volume:', predictedCO2)
 
 
-
-
 ```
 ## Output:
 
-<img width="694" height="81" alt="image" src="https://github.com/user-attachments/assets/60eab8b7-ddca-45cd-8887-63fb4acd1172" />
+<img width="821" height="408" alt="image" src="https://github.com/user-attachments/assets/65f9463e-640a-41ab-8ed8-cc016a0bbed9" />
 
-
-<br>
 
 ## Result
 Thus the multivariate linear regression is implemented and predicted the output using python program.
